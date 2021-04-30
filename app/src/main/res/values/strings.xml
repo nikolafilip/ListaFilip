@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="share">Share</string>
+    <string name="share_text">Are you sure?</string>
+    <string name="more">See more pics</string>
+    <string name="internet">Internet connection changed</string>
+</resources>
